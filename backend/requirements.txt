@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow
+joblib
+pillow
+numpy
+scikit-learn==1.6.1
+python-multipart
+requests
+geopy
