@@ -245,7 +245,7 @@ Farmer's question:
 """
 
         response = requests.post(
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
             params={"key": api_key},
             json={
                 "contents": [
