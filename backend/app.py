@@ -260,7 +260,7 @@ Farmer's question:
                     "maxOutputTokens": 500,
                 },
             },
-            timeout=30,
+            timeout=60,
         )
 
         response.raise_for_status()
